@@ -47,7 +47,7 @@ El sistema se ejecuta por consola en donde ahi mismo se hacen todas las operacio
 
 ### Autor 
 ### 👨‍💻
-**José Luis Ruiz Chávez
-**
+** José Luis Ruiz Chávez **
+
 *JVB01SM*
 
