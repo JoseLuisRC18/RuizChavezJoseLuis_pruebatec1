@@ -3,10 +3,10 @@
 ## Aplicación de Gestión de Empleados 💻
 ## Tabla de Contenidos
 - [Descripción](#Descripción)
-- [Requisitos ](#Requisitos ✅)
-- [Supuestos](#Supuestos 📋)
-- [Configuraciones](#Configuraciones ⚙️)
-- [Autor](#Autor 👨‍💻)
+- [Requisitos ](#Requisitos )
+- [Supuestos](#Supuestos )
+- [Configuraciones](#Configuraciones )
+- [Autor](#Autor )
 
 ### Descripción
 Se desarrollo una aplicación para la gestión de empleados de una empresa esta aplicación incluye las operaciones CRUD crea, lee, actualiza y borra empleados y se incluye JPA para usar la base de datos.
@@ -18,11 +18,6 @@ El sistema se ejecuta por consola en donde ahi mismo se hacen todas las operacio
 - muestra todos los empleados registrados
 - elimina empleados
 - actualiza información de empleados
-
-
-
-
-
 
 
 
