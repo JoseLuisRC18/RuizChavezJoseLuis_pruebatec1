@@ -22,13 +22,15 @@ El sistema se ejecuta por consola en donde ahi mismo se hacen todas las operacio
 
 
 
-### Requisitos ✅
+### Requisitos
+### ✅
 
 - Java 17 
 - XAMPP
 - netbeans 17
 
-### Supuestos 📋 
+### Supuestos 
+### 📋
 
 - En la consigna no se especifica crear un atributo Id pero yo lo agregue para poder usarlo en las diferentes operaciones
 
@@ -37,13 +39,14 @@ El sistema se ejecuta por consola en donde ahi mismo se hacen todas las operacio
 - El atributo fecha inicio fue de tipo localDate y utilice el formato que vimos en clase AAAA-MM-DD 
 
 
-### Configuraciones ⚙️
-#### Configuraciones extra 
+### Configuraciones 
+#### Configuraciones extra ⚙️
 
 - la base de datos tiene como nombre empleados
 - el usuario es root y no tiene contraseña el mysql
 
 ### Autor 
+### 👨‍💻
 **José Luis Ruiz Chávez
 **
 *JVB01SM*
